@@ -1,10 +1,10 @@
-# Question :your task is to capitalize the name appropriately.
+''' Question :your task is to capitalize the name appropriately.
 
 Input Format
 A single line of input containing the full name, .
 
 Output Format
-Print the capitalized string,S.
+Print the capitalized string,S.'''
 
 # Answer :
 
